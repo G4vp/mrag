@@ -66,7 +66,7 @@ def main():
             print(f"  [D{d}] {corpus[d]}")
 
     print("\n=== Section 6 LLM Synthesis Prompt ===")
-    print(build_prompt(query, corpus, hops))
+    print(build_prompt(query, corpus, hops)) 
 
     # 5. Visualization Map
     plot_manifolds(X, Z, hops, corpus)
