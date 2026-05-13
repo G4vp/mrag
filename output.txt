@@ -1,0 +1,878 @@
+
+Query: 'iPhone battery materials'
+
+  ------------------------------------------
+  Config                              Time
+  Cosine + Mahalanobis            3057.558 ms
+  Hops:
+    Hop 0:
+     [D0] The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+     [D1] Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+     [D2] Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+     [D3] Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+     [D4] Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+     [D5] Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+     [D6] The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+     [D7] Anode quality is determined by the purity of the graphite used in the coating process.
+     [D9] Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+     [D16] The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+     [D17] MacBook Pro enclosures are milled from a single block of recycled aluminum.
+     [D18] The Apple Store Fifth Avenue features a prominent glass cube design.
+     [D19] iOS power management software optimizes charging cycles to prevent battery swelling.
+     [D20] Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+     [D21] Next-generation solid-state batteries may replace current liquid electrolytes.
+     [D23] Wireless charging pads utilize induction coils to transfer energy without cables.
+     [D25] USB-C standards dictate the power delivery wattage for modern handheld electronics.
+     [D95] Gold is a highly malleable and ductile metal used in jewelry and electronics.
+    Hop 1:
+     [D8] Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+     [D22] Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+     [D24] The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+     [D26] Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+     [D27] Refining cane sugar involves the use of bone char or granular activated carbon.
+     [D28] The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+     [D31] The process of vulcanizing rubber requires sulfur and high pressure.
+     [D33] Natural gas processing yields helium as a valuable secondary noble gas.
+     [D35] Coking coal is essential for the reduction of iron ore in blast furnaces.
+     [D36] The migration patterns of Arctic terns cover thousands of miles annually.
+     [D37] Quantum entanglement suggests that particles can remain connected across vast distances.
+     [D38] The Renaissance period saw a massive shift in European artistic techniques.
+     [D39] Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+     [D40] The Great Barrier Reef is the world's largest coral reef system.
+     [D41] Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+     [D42] The standard model of particle physics describes the fundamental forces of nature.
+     [D43] Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+     [D44] Tectonic plate movements are responsible for the majority of volcanic activity.
+     [D45] The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+     [D46] Game theory is used to model strategic interactions between rational agents.
+     [D47] The speed of light in a vacuum is approximately 299,792,458 meters per second.
+     [D48] Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+     [D49] Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+     [D50] The James Webb Space Telescope orbits the sun at the second Lagrange point.
+     [D51] Organic chemistry focuses on the study of carbon-based compounds and structures.
+     [D52] The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+     [D53] Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+     [D54] Beethoven composed his Ninth Symphony while he was almost completely deaf.
+     [D55] The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+     [D56] Blockchain technology uses a decentralized ledger to record transactions securely.
+     [D57] The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+     [D58] Marsupials, such as kangaroos, carry their young in a specialized pouch.
+     [D59] The Hubble Constant is a unit used to describe the expansion rate of the universe.
+     [D60] Pythagoras is best known for his theorem regarding right-angled triangles.
+     [D61] The Turing Test measures a machine's ability to exhibit intelligent behavior.
+     [D62] Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+     [D63] The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+     [D64] Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+     [D65] The Magna Carta, signed in 1215, limited the power of the English monarchy.
+     [D66] Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+     [D67] The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+     [D68] Glaciers store about 69% of the world's fresh water in the form of ice.
+     [D69] The printing press was invented by Johannes Gutenberg in the mid-15th century.
+     [D70] Standardized time zones were established to facilitate railway scheduling in the 1800s.
+     [D71] The human genome contains approximately 3 billion base pairs of DNA.
+     [D72] A surrealist painting by Salvador Dalí often features melting clocks.
+     [D73] The Periodic Table organizes elements by their atomic number and properties.
+     [D74] Insects have a three-part body consisting of a head, thorax, and abdomen.
+     [D75] The Great Wall of China was built over several centuries for border protection.
+     [D76] Vinyl records produce sound via a stylus following grooves in the plastic.
+     [D77] The Doppler Effect explains why the pitch of a siren changes as it passes by.
+     [D78] Monarch butterflies migrate from North America to central Mexico every winter.
+     [D79] The Industrial Revolution began in Great Britain during the late 18th century.
+     [D80] Caffeine works by blocking adenosine receptors in the human brain.
+     [D81] The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+     [D82] Space-time curvature is a core concept of Einstein's General Relativity.
+     [D83] The binary system uses only two digits, 0 and 1, to represent data.
+     [D84] Mount Everest is the highest mountain above sea level on Earth.
+     [D85] Atmospheric pressure decreases as altitude increases above the surface.
+     [D86] The heart is a muscular organ that pumps blood throughout the circulatory system.
+     [D87] Ocean tides are primarily caused by the gravitational pull of the moon.
+     [D88] The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+     [D89] A light-year is the distance that light travels in a single Earth year.
+     [D90] The Silk Road was an ancient network of trade routes connecting East and West.
+     [D91] Vaccines stimulate the immune system to recognize and fight specific pathogens.
+     [D92] The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+     [D93] Photosensitive cells in the retina are known as rods and cones.
+     [D94] The Wright brothers achieved the first powered airplane flight in 1903.
+     [D96] The ozone layer protects the Earth from harmful ultraviolet radiation.
+     [D97] Newton's Third Law states that for every action, there is an equal and opposite reaction.
+     [D98] The internet originated from a research project called ARPANET in the 1960s.
+     [D99] Photosynthesis is the process by which green plants make their own food.
+    Hop 2:
+     [D32] Coal tar is a byproduct of coke production used in the paving of roads.
+     [D34] Industrial filtration systems often use sand or anthracite to remove particulates.
+     [D10] The primary feedstock for high-grade needle coke is a substance known as decant oil.
+     [D11] Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+     [D12] Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+     [D13] Decant oil is an industrial byproduct generated during the petroleum refining process.
+     [D14] The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+     [D15] Refining crude oil produces several secondary streams, including bitumen and decant oil.
+     [D29] Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+     [D30] Lubricating oils are refined to reduce friction in internal combustion engines.
+
+Prompt:
+<primary_semantic_context>
+- The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+- Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+- Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+- Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+- Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+- Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+- The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+- Anode quality is determined by the purity of the graphite used in the coating process.
+- Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+- The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+- MacBook Pro enclosures are milled from a single block of recycled aluminum.
+- The Apple Store Fifth Avenue features a prominent glass cube design.
+- iOS power management software optimizes charging cycles to prevent battery swelling.
+- Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+- Next-generation solid-state batteries may replace current liquid electrolytes.
+- Wireless charging pads utilize induction coils to transfer energy without cables.
+- USB-C standards dictate the power delivery wattage for modern handheld electronics.
+- Gold is a highly malleable and ductile metal used in jewelry and electronics.
+</primary_semantic_context>
+
+<structurally_linked_context>
+- Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+- Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+- The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+- Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+- Refining cane sugar involves the use of bone char or granular activated carbon.
+- The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+- The process of vulcanizing rubber requires sulfur and high pressure.
+- Natural gas processing yields helium as a valuable secondary noble gas.
+- Coking coal is essential for the reduction of iron ore in blast furnaces.
+- The migration patterns of Arctic terns cover thousands of miles annually.
+- Quantum entanglement suggests that particles can remain connected across vast distances.
+- The Renaissance period saw a massive shift in European artistic techniques.
+- Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+- The Great Barrier Reef is the world's largest coral reef system.
+- Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+- The standard model of particle physics describes the fundamental forces of nature.
+- Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+- Tectonic plate movements are responsible for the majority of volcanic activity.
+- The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+- Game theory is used to model strategic interactions between rational agents.
+- The speed of light in a vacuum is approximately 299,792,458 meters per second.
+- Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+- Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+- The James Webb Space Telescope orbits the sun at the second Lagrange point.
+- Organic chemistry focuses on the study of carbon-based compounds and structures.
+- The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+- Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+- Beethoven composed his Ninth Symphony while he was almost completely deaf.
+- The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+- Blockchain technology uses a decentralized ledger to record transactions securely.
+- The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+- Marsupials, such as kangaroos, carry their young in a specialized pouch.
+- The Hubble Constant is a unit used to describe the expansion rate of the universe.
+- Pythagoras is best known for his theorem regarding right-angled triangles.
+- The Turing Test measures a machine's ability to exhibit intelligent behavior.
+- Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+- The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+- Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+- The Magna Carta, signed in 1215, limited the power of the English monarchy.
+- Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+- The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+- Glaciers store about 69% of the world's fresh water in the form of ice.
+- The printing press was invented by Johannes Gutenberg in the mid-15th century.
+- Standardized time zones were established to facilitate railway scheduling in the 1800s.
+- The human genome contains approximately 3 billion base pairs of DNA.
+- A surrealist painting by Salvador Dalí often features melting clocks.
+- The Periodic Table organizes elements by their atomic number and properties.
+- Insects have a three-part body consisting of a head, thorax, and abdomen.
+- The Great Wall of China was built over several centuries for border protection.
+- Vinyl records produce sound via a stylus following grooves in the plastic.
+- The Doppler Effect explains why the pitch of a siren changes as it passes by.
+- Monarch butterflies migrate from North America to central Mexico every winter.
+- The Industrial Revolution began in Great Britain during the late 18th century.
+- Caffeine works by blocking adenosine receptors in the human brain.
+- The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+- Space-time curvature is a core concept of Einstein's General Relativity.
+- The binary system uses only two digits, 0 and 1, to represent data.
+- Mount Everest is the highest mountain above sea level on Earth.
+- Atmospheric pressure decreases as altitude increases above the surface.
+- The heart is a muscular organ that pumps blood throughout the circulatory system.
+- Ocean tides are primarily caused by the gravitational pull of the moon.
+- The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+- A light-year is the distance that light travels in a single Earth year.
+- The Silk Road was an ancient network of trade routes connecting East and West.
+- Vaccines stimulate the immune system to recognize and fight specific pathogens.
+- The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+- Photosensitive cells in the retina are known as rods and cones.
+- The Wright brothers achieved the first powered airplane flight in 1903.
+- The ozone layer protects the Earth from harmful ultraviolet radiation.
+- Newton's Third Law states that for every action, there is an equal and opposite reaction.
+- The internet originated from a research project called ARPANET in the 1960s.
+- Photosynthesis is the process by which green plants make their own food.
+- Coal tar is a byproduct of coke production used in the paving of roads.
+- Industrial filtration systems often use sand or anthracite to remove particulates.
+- The primary feedstock for high-grade needle coke is a substance known as decant oil.
+- Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+- Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+- Decant oil is an industrial byproduct generated during the petroleum refining process.
+- The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+- Refining crude oil produces several secondary streams, including bitumen and decant oil.
+- Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+- Lubricating oils are refined to reduce friction in internal combustion engines.
+</structurally_linked_context>
+
+System: Synthesize the primary context to answer the user's query: "iPhone battery materials".
+Use the structurally linked context to draw broader multi-hop connections if the primary context is missing direct evidence.
+
+Tokens: 1767
+------------------------------------------
+  Config                              Time
+  Cosine + Euclidean              2464.707 ms
+  Hops:
+    Hop 0:
+     [D0] The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+     [D1] Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+     [D2] Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+     [D3] Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+     [D4] Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+     [D5] Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+     [D6] The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+     [D7] Anode quality is determined by the purity of the graphite used in the coating process.
+     [D9] Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+     [D16] The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+     [D17] MacBook Pro enclosures are milled from a single block of recycled aluminum.
+     [D18] The Apple Store Fifth Avenue features a prominent glass cube design.
+     [D19] iOS power management software optimizes charging cycles to prevent battery swelling.
+     [D20] Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+     [D21] Next-generation solid-state batteries may replace current liquid electrolytes.
+     [D23] Wireless charging pads utilize induction coils to transfer energy without cables.
+     [D25] USB-C standards dictate the power delivery wattage for modern handheld electronics.
+     [D95] Gold is a highly malleable and ductile metal used in jewelry and electronics.
+    Hop 1:
+     [D8] Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+     [D10] The primary feedstock for high-grade needle coke is a substance known as decant oil.
+     [D11] Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+     [D12] Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+     [D13] Decant oil is an industrial byproduct generated during the petroleum refining process.
+     [D14] The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+     [D15] Refining crude oil produces several secondary streams, including bitumen and decant oil.
+     [D22] Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+     [D24] The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+     [D26] Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+     [D27] Refining cane sugar involves the use of bone char or granular activated carbon.
+     [D28] The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+     [D29] Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+     [D30] Lubricating oils are refined to reduce friction in internal combustion engines.
+     [D31] The process of vulcanizing rubber requires sulfur and high pressure.
+     [D32] Coal tar is a byproduct of coke production used in the paving of roads.
+     [D33] Natural gas processing yields helium as a valuable secondary noble gas.
+     [D34] Industrial filtration systems often use sand or anthracite to remove particulates.
+     [D35] Coking coal is essential for the reduction of iron ore in blast furnaces.
+     [D36] The migration patterns of Arctic terns cover thousands of miles annually.
+     [D37] Quantum entanglement suggests that particles can remain connected across vast distances.
+     [D38] The Renaissance period saw a massive shift in European artistic techniques.
+     [D39] Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+     [D40] The Great Barrier Reef is the world's largest coral reef system.
+     [D41] Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+     [D42] The standard model of particle physics describes the fundamental forces of nature.
+     [D43] Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+     [D44] Tectonic plate movements are responsible for the majority of volcanic activity.
+     [D45] The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+     [D46] Game theory is used to model strategic interactions between rational agents.
+     [D47] The speed of light in a vacuum is approximately 299,792,458 meters per second.
+     [D48] Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+     [D49] Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+     [D50] The James Webb Space Telescope orbits the sun at the second Lagrange point.
+     [D51] Organic chemistry focuses on the study of carbon-based compounds and structures.
+     [D52] The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+     [D53] Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+     [D54] Beethoven composed his Ninth Symphony while he was almost completely deaf.
+     [D55] The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+     [D56] Blockchain technology uses a decentralized ledger to record transactions securely.
+     [D57] The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+     [D58] Marsupials, such as kangaroos, carry their young in a specialized pouch.
+     [D59] The Hubble Constant is a unit used to describe the expansion rate of the universe.
+     [D60] Pythagoras is best known for his theorem regarding right-angled triangles.
+     [D61] The Turing Test measures a machine's ability to exhibit intelligent behavior.
+     [D62] Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+     [D63] The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+     [D64] Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+     [D65] The Magna Carta, signed in 1215, limited the power of the English monarchy.
+     [D66] Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+     [D67] The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+     [D68] Glaciers store about 69% of the world's fresh water in the form of ice.
+     [D69] The printing press was invented by Johannes Gutenberg in the mid-15th century.
+     [D70] Standardized time zones were established to facilitate railway scheduling in the 1800s.
+     [D71] The human genome contains approximately 3 billion base pairs of DNA.
+     [D72] A surrealist painting by Salvador Dalí often features melting clocks.
+     [D73] The Periodic Table organizes elements by their atomic number and properties.
+     [D74] Insects have a three-part body consisting of a head, thorax, and abdomen.
+     [D75] The Great Wall of China was built over several centuries for border protection.
+     [D76] Vinyl records produce sound via a stylus following grooves in the plastic.
+     [D77] The Doppler Effect explains why the pitch of a siren changes as it passes by.
+     [D78] Monarch butterflies migrate from North America to central Mexico every winter.
+     [D79] The Industrial Revolution began in Great Britain during the late 18th century.
+     [D80] Caffeine works by blocking adenosine receptors in the human brain.
+     [D81] The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+     [D82] Space-time curvature is a core concept of Einstein's General Relativity.
+     [D83] The binary system uses only two digits, 0 and 1, to represent data.
+     [D84] Mount Everest is the highest mountain above sea level on Earth.
+     [D85] Atmospheric pressure decreases as altitude increases above the surface.
+     [D86] The heart is a muscular organ that pumps blood throughout the circulatory system.
+     [D87] Ocean tides are primarily caused by the gravitational pull of the moon.
+     [D88] The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+     [D89] A light-year is the distance that light travels in a single Earth year.
+     [D90] The Silk Road was an ancient network of trade routes connecting East and West.
+     [D91] Vaccines stimulate the immune system to recognize and fight specific pathogens.
+     [D92] The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+     [D93] Photosensitive cells in the retina are known as rods and cones.
+     [D94] The Wright brothers achieved the first powered airplane flight in 1903.
+     [D96] The ozone layer protects the Earth from harmful ultraviolet radiation.
+     [D97] Newton's Third Law states that for every action, there is an equal and opposite reaction.
+     [D98] The internet originated from a research project called ARPANET in the 1960s.
+     [D99] Photosynthesis is the process by which green plants make their own food.
+
+Prompt:
+<primary_semantic_context>
+- The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+- Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+- Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+- Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+- Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+- Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+- The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+- Anode quality is determined by the purity of the graphite used in the coating process.
+- Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+- The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+- MacBook Pro enclosures are milled from a single block of recycled aluminum.
+- The Apple Store Fifth Avenue features a prominent glass cube design.
+- iOS power management software optimizes charging cycles to prevent battery swelling.
+- Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+- Next-generation solid-state batteries may replace current liquid electrolytes.
+- Wireless charging pads utilize induction coils to transfer energy without cables.
+- USB-C standards dictate the power delivery wattage for modern handheld electronics.
+- Gold is a highly malleable and ductile metal used in jewelry and electronics.
+</primary_semantic_context>
+
+<structurally_linked_context>
+- Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+- The primary feedstock for high-grade needle coke is a substance known as decant oil.
+- Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+- Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+- Decant oil is an industrial byproduct generated during the petroleum refining process.
+- The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+- Refining crude oil produces several secondary streams, including bitumen and decant oil.
+- Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+- The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+- Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+- Refining cane sugar involves the use of bone char or granular activated carbon.
+- The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+- Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+- Lubricating oils are refined to reduce friction in internal combustion engines.
+- The process of vulcanizing rubber requires sulfur and high pressure.
+- Coal tar is a byproduct of coke production used in the paving of roads.
+- Natural gas processing yields helium as a valuable secondary noble gas.
+- Industrial filtration systems often use sand or anthracite to remove particulates.
+- Coking coal is essential for the reduction of iron ore in blast furnaces.
+- The migration patterns of Arctic terns cover thousands of miles annually.
+- Quantum entanglement suggests that particles can remain connected across vast distances.
+- The Renaissance period saw a massive shift in European artistic techniques.
+- Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+- The Great Barrier Reef is the world's largest coral reef system.
+- Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+- The standard model of particle physics describes the fundamental forces of nature.
+- Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+- Tectonic plate movements are responsible for the majority of volcanic activity.
+- The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+- Game theory is used to model strategic interactions between rational agents.
+- The speed of light in a vacuum is approximately 299,792,458 meters per second.
+- Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+- Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+- The James Webb Space Telescope orbits the sun at the second Lagrange point.
+- Organic chemistry focuses on the study of carbon-based compounds and structures.
+- The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+- Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+- Beethoven composed his Ninth Symphony while he was almost completely deaf.
+- The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+- Blockchain technology uses a decentralized ledger to record transactions securely.
+- The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+- Marsupials, such as kangaroos, carry their young in a specialized pouch.
+- The Hubble Constant is a unit used to describe the expansion rate of the universe.
+- Pythagoras is best known for his theorem regarding right-angled triangles.
+- The Turing Test measures a machine's ability to exhibit intelligent behavior.
+- Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+- The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+- Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+- The Magna Carta, signed in 1215, limited the power of the English monarchy.
+- Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+- The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+- Glaciers store about 69% of the world's fresh water in the form of ice.
+- The printing press was invented by Johannes Gutenberg in the mid-15th century.
+- Standardized time zones were established to facilitate railway scheduling in the 1800s.
+- The human genome contains approximately 3 billion base pairs of DNA.
+- A surrealist painting by Salvador Dalí often features melting clocks.
+- The Periodic Table organizes elements by their atomic number and properties.
+- Insects have a three-part body consisting of a head, thorax, and abdomen.
+- The Great Wall of China was built over several centuries for border protection.
+- Vinyl records produce sound via a stylus following grooves in the plastic.
+- The Doppler Effect explains why the pitch of a siren changes as it passes by.
+- Monarch butterflies migrate from North America to central Mexico every winter.
+- The Industrial Revolution began in Great Britain during the late 18th century.
+- Caffeine works by blocking adenosine receptors in the human brain.
+- The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+- Space-time curvature is a core concept of Einstein's General Relativity.
+- The binary system uses only two digits, 0 and 1, to represent data.
+- Mount Everest is the highest mountain above sea level on Earth.
+- Atmospheric pressure decreases as altitude increases above the surface.
+- The heart is a muscular organ that pumps blood throughout the circulatory system.
+- Ocean tides are primarily caused by the gravitational pull of the moon.
+- The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+- A light-year is the distance that light travels in a single Earth year.
+- The Silk Road was an ancient network of trade routes connecting East and West.
+- Vaccines stimulate the immune system to recognize and fight specific pathogens.
+- The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+- Photosensitive cells in the retina are known as rods and cones.
+- The Wright brothers achieved the first powered airplane flight in 1903.
+- The ozone layer protects the Earth from harmful ultraviolet radiation.
+- Newton's Third Law states that for every action, there is an equal and opposite reaction.
+- The internet originated from a research project called ARPANET in the 1960s.
+- Photosynthesis is the process by which green plants make their own food.
+</structurally_linked_context>
+
+System: Synthesize the primary context to answer the user's query: "iPhone battery materials".
+Use the structurally linked context to draw broader multi-hop connections if the primary context is missing direct evidence.
+
+Tokens: 1767
+------------------------------------------
+  Config                              Time
+  Cosine + Manhattan              2470.107 ms
+  Hops:
+    Hop 0:
+     [D0] The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+     [D1] Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+     [D2] Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+     [D3] Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+     [D4] Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+     [D5] Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+     [D6] The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+     [D7] Anode quality is determined by the purity of the graphite used in the coating process.
+     [D9] Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+     [D16] The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+     [D17] MacBook Pro enclosures are milled from a single block of recycled aluminum.
+     [D18] The Apple Store Fifth Avenue features a prominent glass cube design.
+     [D19] iOS power management software optimizes charging cycles to prevent battery swelling.
+     [D20] Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+     [D21] Next-generation solid-state batteries may replace current liquid electrolytes.
+     [D23] Wireless charging pads utilize induction coils to transfer energy without cables.
+     [D25] USB-C standards dictate the power delivery wattage for modern handheld electronics.
+     [D95] Gold is a highly malleable and ductile metal used in jewelry and electronics.
+    Hop 1:
+     [D8] Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+     [D10] The primary feedstock for high-grade needle coke is a substance known as decant oil.
+     [D11] Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+     [D12] Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+     [D13] Decant oil is an industrial byproduct generated during the petroleum refining process.
+     [D14] The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+     [D15] Refining crude oil produces several secondary streams, including bitumen and decant oil.
+     [D22] Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+     [D24] The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+     [D26] Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+     [D27] Refining cane sugar involves the use of bone char or granular activated carbon.
+     [D28] The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+     [D29] Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+     [D30] Lubricating oils are refined to reduce friction in internal combustion engines.
+     [D31] The process of vulcanizing rubber requires sulfur and high pressure.
+     [D32] Coal tar is a byproduct of coke production used in the paving of roads.
+     [D33] Natural gas processing yields helium as a valuable secondary noble gas.
+     [D34] Industrial filtration systems often use sand or anthracite to remove particulates.
+     [D35] Coking coal is essential for the reduction of iron ore in blast furnaces.
+     [D36] The migration patterns of Arctic terns cover thousands of miles annually.
+     [D37] Quantum entanglement suggests that particles can remain connected across vast distances.
+     [D38] The Renaissance period saw a massive shift in European artistic techniques.
+     [D39] Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+     [D40] The Great Barrier Reef is the world's largest coral reef system.
+     [D41] Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+     [D42] The standard model of particle physics describes the fundamental forces of nature.
+     [D43] Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+     [D44] Tectonic plate movements are responsible for the majority of volcanic activity.
+     [D45] The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+     [D46] Game theory is used to model strategic interactions between rational agents.
+     [D47] The speed of light in a vacuum is approximately 299,792,458 meters per second.
+     [D48] Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+     [D49] Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+     [D50] The James Webb Space Telescope orbits the sun at the second Lagrange point.
+     [D51] Organic chemistry focuses on the study of carbon-based compounds and structures.
+     [D52] The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+     [D53] Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+     [D54] Beethoven composed his Ninth Symphony while he was almost completely deaf.
+     [D55] The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+     [D56] Blockchain technology uses a decentralized ledger to record transactions securely.
+     [D57] The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+     [D58] Marsupials, such as kangaroos, carry their young in a specialized pouch.
+     [D59] The Hubble Constant is a unit used to describe the expansion rate of the universe.
+     [D60] Pythagoras is best known for his theorem regarding right-angled triangles.
+     [D61] The Turing Test measures a machine's ability to exhibit intelligent behavior.
+     [D62] Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+     [D63] The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+     [D64] Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+     [D65] The Magna Carta, signed in 1215, limited the power of the English monarchy.
+     [D66] Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+     [D67] The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+     [D68] Glaciers store about 69% of the world's fresh water in the form of ice.
+     [D69] The printing press was invented by Johannes Gutenberg in the mid-15th century.
+     [D70] Standardized time zones were established to facilitate railway scheduling in the 1800s.
+     [D71] The human genome contains approximately 3 billion base pairs of DNA.
+     [D72] A surrealist painting by Salvador Dalí often features melting clocks.
+     [D73] The Periodic Table organizes elements by their atomic number and properties.
+     [D74] Insects have a three-part body consisting of a head, thorax, and abdomen.
+     [D75] The Great Wall of China was built over several centuries for border protection.
+     [D76] Vinyl records produce sound via a stylus following grooves in the plastic.
+     [D77] The Doppler Effect explains why the pitch of a siren changes as it passes by.
+     [D78] Monarch butterflies migrate from North America to central Mexico every winter.
+     [D79] The Industrial Revolution began in Great Britain during the late 18th century.
+     [D80] Caffeine works by blocking adenosine receptors in the human brain.
+     [D81] The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+     [D82] Space-time curvature is a core concept of Einstein's General Relativity.
+     [D83] The binary system uses only two digits, 0 and 1, to represent data.
+     [D84] Mount Everest is the highest mountain above sea level on Earth.
+     [D85] Atmospheric pressure decreases as altitude increases above the surface.
+     [D86] The heart is a muscular organ that pumps blood throughout the circulatory system.
+     [D87] Ocean tides are primarily caused by the gravitational pull of the moon.
+     [D88] The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+     [D89] A light-year is the distance that light travels in a single Earth year.
+     [D90] The Silk Road was an ancient network of trade routes connecting East and West.
+     [D91] Vaccines stimulate the immune system to recognize and fight specific pathogens.
+     [D92] The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+     [D93] Photosensitive cells in the retina are known as rods and cones.
+     [D94] The Wright brothers achieved the first powered airplane flight in 1903.
+     [D96] The ozone layer protects the Earth from harmful ultraviolet radiation.
+     [D97] Newton's Third Law states that for every action, there is an equal and opposite reaction.
+     [D98] The internet originated from a research project called ARPANET in the 1960s.
+     [D99] Photosynthesis is the process by which green plants make their own food.
+
+Prompt:
+<primary_semantic_context>
+- The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+- Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+- Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+- Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+- Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+- Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+- The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+- Anode quality is determined by the purity of the graphite used in the coating process.
+- Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+- The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+- MacBook Pro enclosures are milled from a single block of recycled aluminum.
+- The Apple Store Fifth Avenue features a prominent glass cube design.
+- iOS power management software optimizes charging cycles to prevent battery swelling.
+- Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+- Next-generation solid-state batteries may replace current liquid electrolytes.
+- Wireless charging pads utilize induction coils to transfer energy without cables.
+- USB-C standards dictate the power delivery wattage for modern handheld electronics.
+- Gold is a highly malleable and ductile metal used in jewelry and electronics.
+</primary_semantic_context>
+
+<structurally_linked_context>
+- Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+- The primary feedstock for high-grade needle coke is a substance known as decant oil.
+- Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+- Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+- Decant oil is an industrial byproduct generated during the petroleum refining process.
+- The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+- Refining crude oil produces several secondary streams, including bitumen and decant oil.
+- Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+- The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+- Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+- Refining cane sugar involves the use of bone char or granular activated carbon.
+- The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+- Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+- Lubricating oils are refined to reduce friction in internal combustion engines.
+- The process of vulcanizing rubber requires sulfur and high pressure.
+- Coal tar is a byproduct of coke production used in the paving of roads.
+- Natural gas processing yields helium as a valuable secondary noble gas.
+- Industrial filtration systems often use sand or anthracite to remove particulates.
+- Coking coal is essential for the reduction of iron ore in blast furnaces.
+- The migration patterns of Arctic terns cover thousands of miles annually.
+- Quantum entanglement suggests that particles can remain connected across vast distances.
+- The Renaissance period saw a massive shift in European artistic techniques.
+- Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+- The Great Barrier Reef is the world's largest coral reef system.
+- Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+- The standard model of particle physics describes the fundamental forces of nature.
+- Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+- Tectonic plate movements are responsible for the majority of volcanic activity.
+- The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+- Game theory is used to model strategic interactions between rational agents.
+- The speed of light in a vacuum is approximately 299,792,458 meters per second.
+- Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+- Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+- The James Webb Space Telescope orbits the sun at the second Lagrange point.
+- Organic chemistry focuses on the study of carbon-based compounds and structures.
+- The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+- Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+- Beethoven composed his Ninth Symphony while he was almost completely deaf.
+- The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+- Blockchain technology uses a decentralized ledger to record transactions securely.
+- The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+- Marsupials, such as kangaroos, carry their young in a specialized pouch.
+- The Hubble Constant is a unit used to describe the expansion rate of the universe.
+- Pythagoras is best known for his theorem regarding right-angled triangles.
+- The Turing Test measures a machine's ability to exhibit intelligent behavior.
+- Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+- The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+- Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+- The Magna Carta, signed in 1215, limited the power of the English monarchy.
+- Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+- The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+- Glaciers store about 69% of the world's fresh water in the form of ice.
+- The printing press was invented by Johannes Gutenberg in the mid-15th century.
+- Standardized time zones were established to facilitate railway scheduling in the 1800s.
+- The human genome contains approximately 3 billion base pairs of DNA.
+- A surrealist painting by Salvador Dalí often features melting clocks.
+- The Periodic Table organizes elements by their atomic number and properties.
+- Insects have a three-part body consisting of a head, thorax, and abdomen.
+- The Great Wall of China was built over several centuries for border protection.
+- Vinyl records produce sound via a stylus following grooves in the plastic.
+- The Doppler Effect explains why the pitch of a siren changes as it passes by.
+- Monarch butterflies migrate from North America to central Mexico every winter.
+- The Industrial Revolution began in Great Britain during the late 18th century.
+- Caffeine works by blocking adenosine receptors in the human brain.
+- The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+- Space-time curvature is a core concept of Einstein's General Relativity.
+- The binary system uses only two digits, 0 and 1, to represent data.
+- Mount Everest is the highest mountain above sea level on Earth.
+- Atmospheric pressure decreases as altitude increases above the surface.
+- The heart is a muscular organ that pumps blood throughout the circulatory system.
+- Ocean tides are primarily caused by the gravitational pull of the moon.
+- The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+- A light-year is the distance that light travels in a single Earth year.
+- The Silk Road was an ancient network of trade routes connecting East and West.
+- Vaccines stimulate the immune system to recognize and fight specific pathogens.
+- The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+- Photosensitive cells in the retina are known as rods and cones.
+- The Wright brothers achieved the first powered airplane flight in 1903.
+- The ozone layer protects the Earth from harmful ultraviolet radiation.
+- Newton's Third Law states that for every action, there is an equal and opposite reaction.
+- The internet originated from a research project called ARPANET in the 1960s.
+- Photosynthesis is the process by which green plants make their own food.
+</structurally_linked_context>
+
+System: Synthesize the primary context to answer the user's query: "iPhone battery materials".
+Use the structurally linked context to draw broader multi-hop connections if the primary context is missing direct evidence.
+
+Tokens: 1767
+------------------------------------------
+  Config                              Time
+  Cosine + MakeDotProduct         2416.730 ms
+  Hops:
+    Hop 0:
+     [D0] The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+     [D1] Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+     [D2] Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+     [D3] Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+     [D4] Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+     [D5] Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+     [D6] The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+     [D7] Anode quality is determined by the purity of the graphite used in the coating process.
+     [D9] Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+     [D16] The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+     [D17] MacBook Pro enclosures are milled from a single block of recycled aluminum.
+     [D18] The Apple Store Fifth Avenue features a prominent glass cube design.
+     [D19] iOS power management software optimizes charging cycles to prevent battery swelling.
+     [D20] Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+     [D21] Next-generation solid-state batteries may replace current liquid electrolytes.
+     [D23] Wireless charging pads utilize induction coils to transfer energy without cables.
+     [D25] USB-C standards dictate the power delivery wattage for modern handheld electronics.
+     [D95] Gold is a highly malleable and ductile metal used in jewelry and electronics.
+    Hop 1:
+     [D8] Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+     [D10] The primary feedstock for high-grade needle coke is a substance known as decant oil.
+     [D11] Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+     [D12] Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+     [D13] Decant oil is an industrial byproduct generated during the petroleum refining process.
+     [D14] The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+     [D15] Refining crude oil produces several secondary streams, including bitumen and decant oil.
+     [D22] Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+     [D24] The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+     [D26] Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+     [D27] Refining cane sugar involves the use of bone char or granular activated carbon.
+     [D28] The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+     [D29] Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+     [D30] Lubricating oils are refined to reduce friction in internal combustion engines.
+     [D31] The process of vulcanizing rubber requires sulfur and high pressure.
+     [D32] Coal tar is a byproduct of coke production used in the paving of roads.
+     [D33] Natural gas processing yields helium as a valuable secondary noble gas.
+     [D34] Industrial filtration systems often use sand or anthracite to remove particulates.
+     [D35] Coking coal is essential for the reduction of iron ore in blast furnaces.
+     [D36] The migration patterns of Arctic terns cover thousands of miles annually.
+     [D37] Quantum entanglement suggests that particles can remain connected across vast distances.
+     [D38] The Renaissance period saw a massive shift in European artistic techniques.
+     [D39] Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+     [D40] The Great Barrier Reef is the world's largest coral reef system.
+     [D41] Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+     [D42] The standard model of particle physics describes the fundamental forces of nature.
+     [D43] Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+     [D44] Tectonic plate movements are responsible for the majority of volcanic activity.
+     [D45] The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+     [D46] Game theory is used to model strategic interactions between rational agents.
+     [D47] The speed of light in a vacuum is approximately 299,792,458 meters per second.
+     [D48] Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+     [D49] Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+     [D50] The James Webb Space Telescope orbits the sun at the second Lagrange point.
+     [D51] Organic chemistry focuses on the study of carbon-based compounds and structures.
+     [D52] The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+     [D53] Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+     [D54] Beethoven composed his Ninth Symphony while he was almost completely deaf.
+     [D55] The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+     [D56] Blockchain technology uses a decentralized ledger to record transactions securely.
+     [D57] The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+     [D58] Marsupials, such as kangaroos, carry their young in a specialized pouch.
+     [D59] The Hubble Constant is a unit used to describe the expansion rate of the universe.
+     [D60] Pythagoras is best known for his theorem regarding right-angled triangles.
+     [D61] The Turing Test measures a machine's ability to exhibit intelligent behavior.
+     [D62] Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+     [D63] The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+     [D64] Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+     [D65] The Magna Carta, signed in 1215, limited the power of the English monarchy.
+     [D66] Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+     [D67] The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+     [D68] Glaciers store about 69% of the world's fresh water in the form of ice.
+     [D69] The printing press was invented by Johannes Gutenberg in the mid-15th century.
+     [D70] Standardized time zones were established to facilitate railway scheduling in the 1800s.
+     [D71] The human genome contains approximately 3 billion base pairs of DNA.
+     [D72] A surrealist painting by Salvador Dalí often features melting clocks.
+     [D73] The Periodic Table organizes elements by their atomic number and properties.
+     [D74] Insects have a three-part body consisting of a head, thorax, and abdomen.
+     [D75] The Great Wall of China was built over several centuries for border protection.
+     [D76] Vinyl records produce sound via a stylus following grooves in the plastic.
+     [D77] The Doppler Effect explains why the pitch of a siren changes as it passes by.
+     [D78] Monarch butterflies migrate from North America to central Mexico every winter.
+     [D79] The Industrial Revolution began in Great Britain during the late 18th century.
+     [D80] Caffeine works by blocking adenosine receptors in the human brain.
+     [D81] The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+     [D82] Space-time curvature is a core concept of Einstein's General Relativity.
+     [D83] The binary system uses only two digits, 0 and 1, to represent data.
+     [D84] Mount Everest is the highest mountain above sea level on Earth.
+     [D85] Atmospheric pressure decreases as altitude increases above the surface.
+     [D86] The heart is a muscular organ that pumps blood throughout the circulatory system.
+     [D87] Ocean tides are primarily caused by the gravitational pull of the moon.
+     [D88] The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+     [D89] A light-year is the distance that light travels in a single Earth year.
+     [D90] The Silk Road was an ancient network of trade routes connecting East and West.
+     [D91] Vaccines stimulate the immune system to recognize and fight specific pathogens.
+     [D92] The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+     [D93] Photosensitive cells in the retina are known as rods and cones.
+     [D94] The Wright brothers achieved the first powered airplane flight in 1903.
+     [D96] The ozone layer protects the Earth from harmful ultraviolet radiation.
+     [D97] Newton's Third Law states that for every action, there is an equal and opposite reaction.
+     [D98] The internet originated from a research project called ARPANET in the 1960s.
+     [D99] Photosynthesis is the process by which green plants make their own food.
+
+Prompt:
+<primary_semantic_context>
+- The flagship iPhone models utilize a custom-layered power cell to maximize internal space.
+- Modern energy cells in mobile devices rely on high-capacity chemical electrolytes.
+- Lithium-ion polymer technology is the standard for thin-profile smartphone power units.
+- Smartphone energy storage efficiency is limited by the thermal stability of the anode.
+- Lithium-ion anodes are frequently constructed using specialized carbon allotropes.
+- Synthetic graphite is the preferred carbon allotrope for high-performance battery anodes.
+- The crystalline structure of synthetic graphite allows for efficient lithium-ion intercalation.
+- Anode quality is determined by the purity of the graphite used in the coating process.
+- Needle coke is a highly crystalline form of carbon used specifically for electrodes.
+- The Apple Watch uses a similar magnetic charging mechanism to the MagSafe connector.
+- MacBook Pro enclosures are milled from a single block of recycled aluminum.
+- The Apple Store Fifth Avenue features a prominent glass cube design.
+- iOS power management software optimizes charging cycles to prevent battery swelling.
+- Energy storage for electric vehicles often involves nickel-manganese-cobalt chemistries.
+- Next-generation solid-state batteries may replace current liquid electrolytes.
+- Wireless charging pads utilize induction coils to transfer energy without cables.
+- USB-C standards dictate the power delivery wattage for modern handheld electronics.
+- Gold is a highly malleable and ductile metal used in jewelry and electronics.
+</primary_semantic_context>
+
+<structurally_linked_context>
+- Synthetic graphite is produced through the high-temperature graphitization of needle coke.
+- The primary feedstock for high-grade needle coke is a substance known as decant oil.
+- Decant oil, also called slurry oil, is the heavy fraction resulting from fluid catalytic cracking.
+- Fluid catalytic cracking is a central process in the conversion of crude oil into gasoline.
+- Decant oil is an industrial byproduct generated during the petroleum refining process.
+- The heavy residues of oil refineries are often repurposed for carbon-intensive manufacturing.
+- Refining crude oil produces several secondary streams, including bitumen and decant oil.
+- Graphene is a single layer of carbon atoms with extraordinary electrical conductivity.
+- The production of semiconductors requires ultra-pure silicon wafers and cleanroom environments.
+- Pencils use a mixture of clay and natural graphite, which differs from synthetic variants.
+- Refining cane sugar involves the use of bone char or granular activated carbon.
+- The steel industry uses electric arc furnaces to melt scrap metal into new beams.
+- Petroleum jelly is a common byproduct used in the pharmaceutical and cosmetic industries.
+- Lubricating oils are refined to reduce friction in internal combustion engines.
+- The process of vulcanizing rubber requires sulfur and high pressure.
+- Coal tar is a byproduct of coke production used in the paving of roads.
+- Natural gas processing yields helium as a valuable secondary noble gas.
+- Industrial filtration systems often use sand or anthracite to remove particulates.
+- Coking coal is essential for the reduction of iron ore in blast furnaces.
+- The migration patterns of Arctic terns cover thousands of miles annually.
+- Quantum entanglement suggests that particles can remain connected across vast distances.
+- The Renaissance period saw a massive shift in European artistic techniques.
+- Photosynthesis converts solar energy into chemical energy within plant chloroplasts.
+- The Great Barrier Reef is the world's largest coral reef system.
+- Deep-sea hydrothermal vents support ecosystems that do not rely on sunlight.
+- The standard model of particle physics describes the fundamental forces of nature.
+- Sourdough starters rely on a symbiotic culture of yeast and bacteria.
+- Tectonic plate movements are responsible for the majority of volcanic activity.
+- The Fibonacci sequence is frequently observed in the spiral patterns of seashells.
+- Game theory is used to model strategic interactions between rational agents.
+- The speed of light in a vacuum is approximately 299,792,458 meters per second.
+- Ancient Mesopotamians developed one of the earliest known writing systems, Cuneiform.
+- Acoustic levitation uses sound waves to suspend physical matter in mid-air.
+- The James Webb Space Telescope orbits the sun at the second Lagrange point.
+- Organic chemistry focuses on the study of carbon-based compounds and structures.
+- The Treaty of Westphalia in 1648 helped establish the modern concept of nation-states.
+- Enzymes act as biological catalysts to speed up metabolic reactions in the body.
+- Beethoven composed his Ninth Symphony while he was almost completely deaf.
+- The Sahara Desert is the largest hot desert in the world, spanning North Africa.
+- Blockchain technology uses a decentralized ledger to record transactions securely.
+- The concept of 'Ikigai' in Japanese culture refers to one's reason for being.
+- Marsupials, such as kangaroos, carry their young in a specialized pouch.
+- The Hubble Constant is a unit used to describe the expansion rate of the universe.
+- Pythagoras is best known for his theorem regarding right-angled triangles.
+- The Turing Test measures a machine's ability to exhibit intelligent behavior.
+- Volcanic obsidian was used by ancient civilizations to create sharp cutting tools.
+- The Rosetta Stone provided the key to deciphering Egyptian hieroglyphs.
+- Dark matter is hypothesized to account for approximately 85% of the matter in the universe.
+- The Magna Carta, signed in 1215, limited the power of the English monarchy.
+- Bioluminescence in fireflies is caused by a chemical reaction involving luciferin.
+- The Roman Colosseum could hold an estimated 50,000 to 80,000 spectators.
+- Glaciers store about 69% of the world's fresh water in the form of ice.
+- The printing press was invented by Johannes Gutenberg in the mid-15th century.
+- Standardized time zones were established to facilitate railway scheduling in the 1800s.
+- The human genome contains approximately 3 billion base pairs of DNA.
+- A surrealist painting by Salvador Dalí often features melting clocks.
+- The Periodic Table organizes elements by their atomic number and properties.
+- Insects have a three-part body consisting of a head, thorax, and abdomen.
+- The Great Wall of China was built over several centuries for border protection.
+- Vinyl records produce sound via a stylus following grooves in the plastic.
+- The Doppler Effect explains why the pitch of a siren changes as it passes by.
+- Monarch butterflies migrate from North America to central Mexico every winter.
+- The Industrial Revolution began in Great Britain during the late 18th century.
+- Caffeine works by blocking adenosine receptors in the human brain.
+- The Amazon Rainforest produces a significant portion of the Earth's oxygen.
+- Space-time curvature is a core concept of Einstein's General Relativity.
+- The binary system uses only two digits, 0 and 1, to represent data.
+- Mount Everest is the highest mountain above sea level on Earth.
+- Atmospheric pressure decreases as altitude increases above the surface.
+- The heart is a muscular organ that pumps blood throughout the circulatory system.
+- Ocean tides are primarily caused by the gravitational pull of the moon.
+- The Eiffel Tower was originally built as a temporary entrance for the 1889 World's Fair.
+- A light-year is the distance that light travels in a single Earth year.
+- The Silk Road was an ancient network of trade routes connecting East and West.
+- Vaccines stimulate the immune system to recognize and fight specific pathogens.
+- The Sahara's dust can be carried by wind across the Atlantic to the Amazon.
+- Photosensitive cells in the retina are known as rods and cones.
+- The Wright brothers achieved the first powered airplane flight in 1903.
+- The ozone layer protects the Earth from harmful ultraviolet radiation.
+- Newton's Third Law states that for every action, there is an equal and opposite reaction.
+- The internet originated from a research project called ARPANET in the 1960s.
+- Photosynthesis is the process by which green plants make their own food.
+</structurally_linked_context>
+
+System: Synthesize the primary context to answer the user's query: "iPhone battery materials".
+Use the structurally linked context to draw broader multi-hop connections if the primary context is missing direct evidence.
+
+Tokens: 1767
+------------------------------------------
+

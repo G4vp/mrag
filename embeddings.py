@@ -26,7 +26,7 @@ def make_mpnet_embedder() -> Callable[[List[str]], np.ndarray]:
     Returns an embedding function using the all-mpnet-base-v2 SentenceTransformer model.
     Maps text to dense semantic embeddings.
     """
-    model = SentenceTransformer("all-mpnet-base-v2")
+    model = SentenceTransformer("all-MiniLM-L6-v2")
 
     def embedder(texts: List[str]) -> np.ndarray:
         return model.encode(texts, convert_to_numpy=True)
